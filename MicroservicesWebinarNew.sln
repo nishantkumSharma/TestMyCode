@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatalogService", "CatalogService\CatalogService.csproj", "{8F88E2DE-F646-4820-9D72-8521652B2880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcletApiGateway", "OcletApiGateway\OcletApiGateway.csproj", "{450F70E7-1427-44CD-99AB-B467AD913219}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F88E2DE-F646-4820-9D72-8521652B2880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F88E2DE-F646-4820-9D72-8521652B2880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F88E2DE-F646-4820-9D72-8521652B2880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F88E2DE-F646-4820-9D72-8521652B2880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450F70E7-1427-44CD-99AB-B467AD913219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450F70E7-1427-44CD-99AB-B467AD913219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450F70E7-1427-44CD-99AB-B467AD913219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450F70E7-1427-44CD-99AB-B467AD913219}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB07C115-CEC7-4ABC-94B0-54E7C1F41CE6}
+	EndGlobalSection
+EndGlobal
